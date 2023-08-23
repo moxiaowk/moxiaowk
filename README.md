@@ -8,8 +8,8 @@ want that?go: https://readme-typing-svg.herokuapp.com/demo/
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://sau.cc/"><img src="https://img.shields.io/badge/Website-Blog-FFD700" /></a>&emsp;
-    <a href="https://www.moxiaocc.cn/"><img src="https://img.shields.io/badge/website-Home-43C9D2" /></a>&emsp;
+    <a href="https://i.sau.cc/"><img src="https://img.shields.io/badge/Site-Home-43C9D2" /></a>&emsp;
+    <a href="https://www.moxiaocc.cn/"><img src="https://img.shields.io/badge/Web-Blog-FFD700" /></a>&emsp;
     <a href="mailto:i@sau.cc"><img src="https://img.shields.io/badge/Chat-Email-FA8072" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=moxiaowk&label=Views&color=EE5688&style=flat" alt="访问量统计" />
